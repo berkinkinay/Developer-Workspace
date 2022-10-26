@@ -38,7 +38,7 @@ export const Section = () => {
      class=
      'flex items-center justify-center h-[390px] w-[420px] bg-zinc-900 absolute rounded-2xl 2xl:right-[90px] 3xl:right-[60px] 3xl:top-[60px] 2xl:top-[59px]'
      > 
-       <Swing />
+       <Swing >
      </div>
     </div>
    </div>
