@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text{
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.button {   
+    margin-bottom: 140px;
+    margin-right: 210px;
+}
+
+
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .button:hover {
+    animation: swing 5s;
+  }
+  
+  @keyframes swing {
+      0%
+       {
+          transform: rotateZ(2deg) translate(-10,0);
+      }
+      10%
+       {
+          transform: rotateZ(20deg) translate(-25px,-15px);
+      }
+      30%
+       {
+          transform: rotateZ(-30deg) translate(-15px,-2px);
+      }
+      60%
+       {
+          transform: rotateZ(10deg) translate(30px,-10px);  
+      }
+      20%
+       {
+          transform: rotateZ(20deg) translate(0,0);
+      }
+  }
