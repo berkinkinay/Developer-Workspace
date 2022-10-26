@@ -19,7 +19,7 @@ export const Section = () => {
      >
     <div 
       class=
-     'flex h-96 w-72 2xl:ml-24 3xl:ml-36'>
+     'flex h-96 w-72 2xl:ml-24 3xl:ml-[100px]'>
       <motion.div
         whileHover={{ x: 20, transition: { duration: 0.1 }, }}  
         transition={{ type: "spring", stiffness: 80,  duration: 0.1 }}
@@ -36,7 +36,7 @@ export const Section = () => {
     </div>
      <div 
      class=
-     'flex items-center justify-center h-[390px] w-[420px] bg-zinc-900 absolute rounded-2xl 2xl:right-[90px] 3xl:right-[530px] 3xl:top-[250px] 2xl:top-[59px]'
+     'flex items-center justify-center h-[390px] w-[420px] bg-zinc-900 absolute rounded-2xl 2xl:right-[90px] 3xl:right-[60px] 3xl:top-[60px] 2xl:top-[59px]'
      > 
        <Swing />
      </div>
