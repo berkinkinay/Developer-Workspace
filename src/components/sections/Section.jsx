@@ -29,7 +29,7 @@ export const Section = () => {
        'flex items-center justify-center h-96 w-72 bg-slate-500 rounded-xl'>
         <p class='flex my-2 mx-4 text-black text-center'
         >
-          Hover the object to see animation. I can code animation module to different possibilities than this example.
+          Hover object to see the animation. I can code animation module to different possibilities than this example.
        </p> 
       </div>
       </motion.div>
