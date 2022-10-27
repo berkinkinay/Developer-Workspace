@@ -14,7 +14,7 @@ const Swing = () => {
      class=
     'flex items-center justify-center w-fit w-hit text-base absolute text-white'
     >
-      Hover me to swing
+      Swing
     </button>  
   </div>
  </div>
