@@ -11,7 +11,7 @@
 
 ## Project Link 🔭
 
-`See the project what it looks like` => [Review](https://developer-workspace-2u34du515-developedbyven.vercel.app/)
+`See the project what it looks like` => [Review](https://developer-workspace.vercel.app/)
 
 ## Licance
 ### `MIT` ⚖️
