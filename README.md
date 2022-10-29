@@ -17,7 +17,7 @@
 ### `MIT` ⚖️
 
 ## `Developer Side (Upcoming features)`💫
-This is for now... I am going to add new features and also new techs in it. There is gonne be my showcase like objects. some UI, UX stuff and also `especially focusing to  writing JavaScript and more that like I coded and developed. ` 
+This is for now... I am going to add new features and also new techs in it. There is gonne be my showcase like objects. some UI, UX stuf, page loader animations and also `especially focusing to  writing JavaScript and more that like I coded and developed. ` 
 
 ### `dev`
 Berkin Kınay 👤
