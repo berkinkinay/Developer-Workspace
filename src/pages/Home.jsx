@@ -3,8 +3,7 @@ import Typewrite from 'typewriter-effect';
 import { BiDownArrow } from 'react-icons/bi'
 import { FaConnectdevelop } from 'react-icons/fa';
 import '../App.css';
-import Object1 from '../components/sections/Object1'
-
+import Object1 from '../components/objects/Object1'
 
 export const Home = () => {
  return (
@@ -23,7 +22,7 @@ export const Home = () => {
     class='hover:underline hover:decoration-slate-200 text-black 3x:text-xl 2xl:text-base font-semibold'
     target="_blank" rel="noreferrer" href="https://berkinkinay.dev/"
     > 
-      berkinkinay.dev 
+      berkinkinay.dev
       </a> 
     </div>
    <div 
@@ -51,7 +50,7 @@ export const Home = () => {
   </div> 
   <div 
    class=
-   'flex bg-slate-500 h-64 w-80 drop-shadow-2xl rounded-xl justify-center mt-16'>
+   'flex bg-slate-500 h-64 w-80 drop-shadow-xl rounded-xl justify-center mt-16'>
     <p 
      class=
      'flex text-center justify-center 2xl:text-base my-10 mx-10 text-black'

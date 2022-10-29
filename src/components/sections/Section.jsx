@@ -1,7 +1,6 @@
 import React from 'react'
 import {motion} from 'framer-motion'
-import Object1 from './Object1'
-import Swing  from './Swing'
+import Swing  from '../objects/Swing'
 
 export const Section = () => {
  return (
