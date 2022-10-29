@@ -1,7 +1,7 @@
 # Developer Workspace💻
 `This my Workspace to show things that I coded and worked on recenty.`
 
-## Used Tech 🥰
+## Used Techs 🥰
 
 ### `JavaScript`
 ### `ReactJS`
