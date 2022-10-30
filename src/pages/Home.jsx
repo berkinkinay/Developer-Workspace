@@ -37,7 +37,7 @@ export const Home = () => {
        .pauseFor(1000)
        .deleteAll()
        .pauseFor(50)
-       .typeString ("Welcome to my workshop space.")
+       .typeString ("Welcome to my workspace.")
        .pauseFor(1500)
        .deleteAll()
        .typeString("Let's code, create and develop the new features!")
