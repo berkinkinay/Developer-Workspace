@@ -10,7 +10,7 @@ export const Home = () => {
 <div className='text'>
 <div 
  class=
- 'flex bg-zinc-800 w-full h-screen justify-center items-center 2xl:text-lg'
+ 'flex bg-black w-full h-screen justify-center items-center 2xl:text-lg'
 >     
  <div class='hidden'> <Object1 /></div>
   <div class='flex items-center justify-center absolute 3xl:top-28 2xl:top-14 h-36 w-[590px] bg-blue-300 rounded-lg'>

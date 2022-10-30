@@ -10,8 +10,8 @@ export const Sectionew = () => {
   class=
  'flex absolute bg-gray-900 w-full h-screen text-white items-center justify-center'
  >  
-  <p class='flex absolute top-10 text-xl text-gray-900'>Part two</p> 
-  <div class='flex absolute h-[500px] w-[1000px] bg-slate-800 rounded-xl items-center justify-center'>
+  <p class='flex absolute top-10 text-xl text-gray-400'>Part two</p> 
+  <div class='flex absolute h-[500px] w-[1000px] rounded-xl items-center justify-center'>
     <div
      class=
      'grid grid-cols-2 h-[full] w-full'

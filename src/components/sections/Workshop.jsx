@@ -7,10 +7,10 @@ export const Workshop = () => {
 <div className='text' id='Workspace'>
  <div 
   class=
- 'flex absolute bg-gray-900 w-full h-screen text-white items-center justify-center'
+ 'flex absolute bg-zinc-800 w-full h-screen text-white items-center justify-center'
  >  
-  <p class='flex absolute top-10 text-xl text-gray-500'>Last part</p> 
-  <div class='flex h-[500px] w-[1000px] bg-slate-800 rounded-xl items-center justify-center'>
+  <p class='flex absolute top-10 text-xl text-gray-400'>Last part</p> 
+  <div class='flex h-[500px] w-[1000px] rounded-xl items-center justify-center'>
     <div
      class=
      'grid grid-cols-2 h-[full] w-full'
