@@ -22,7 +22,7 @@ export const Home = () => {
     class='hover:underline hover:decoration-slate-200 text-black 3x:text-xl 2xl:text-base font-semibold'
     target="_blank" rel="noreferrer" href="https://berkinkinay.dev/"
     > 
-      berkinkinay.dev
+      berkinkinay.de
       </a> 
     </div>
    <div 
