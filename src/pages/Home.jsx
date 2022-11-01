@@ -55,7 +55,7 @@ export const Home = () => {
      class=
      'flex text-center justify-center 2xl:text-base my-10 mx-10 text-black'
      > 
-      This is a my workspace project. There are going to be objects,
+      This is my workspace project. There are going to be objects,
       some UI, UX stuff and also focusing to writing
       JavaScript here that I coded all things.
     </p>
