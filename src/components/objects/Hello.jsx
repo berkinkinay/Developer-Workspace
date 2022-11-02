@@ -1,17 +1,19 @@
 import React from 'react'
+import Animatepages from '../Animate/Animatepages'
 
 export const Hello = () => {
   return (
-    
+
+<Animatepages>  
 <div class='text'>
  <div 
   class=
   'flex bg-zinc-800 h-screen w-full text-white items-center justify-center'
   >
-   <div class='flex absolute mt-5 h-[460px] w-80 bg-slate-500 rounded-xl items-center rotate-6 blur-lg'></div>
+   <div class='flex absolute mb-10 h-[460px] w-80 bg-slate-500 rounded-xl items-center rotate-6 blur-lg'></div>
    <div 
     class=
-   'flex flex-col absolute mt-5 h-[460px] w-80 bg-slate-200 rounded-xl items-center'
+   'flex flex-col absolute mb-10 h-[460px] w-80 bg-slate-200 rounded-xl items-center'
    >        
     <div class='flex text-xl mt-14 text-gray-600'>Sign In</div>
     <div class='flex text-xs mt-4 font-thin text-gray-600'>Please sigin to use platform</div>
@@ -39,9 +41,10 @@ export const Hello = () => {
      >
        <p class='flex uppercase text-xs'>sıng ın</p>   
      </div>
-     </button>  
+     </button> 
      </div>
  </div>
 </div>
+</Animatepages>
   ) 
 }
