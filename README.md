@@ -1,5 +1,5 @@
 # Developer Workspace💻
-`This my Workspace to show things that I coded and worked on recenty.`
+`This is my Workspace to show things that I coded and worked on recenty.`
 
 ## Used Techs 🥰
 
