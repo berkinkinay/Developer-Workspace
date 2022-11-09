@@ -67,8 +67,8 @@ export const Home = () => {
      'flex text-center justify-center 2xl:text-base my-10 mx-10 text-black'
      > 
       This project is about my workspace. There are going to be objects,
-      some UI, UX stuff and also focusing to writing
-      JavaScript here that I coded all things.
+      some UI, UX stuff and more that I coded. 
+      Especially I will be focusing on JavaScript.
     </p>
       <div className='App'>
        <div class='flex absolute bottom-5 rounded-full 2xl:right-[140px] 3xl:right-[144px]'
