@@ -45,7 +45,7 @@ const blackBox = {
   
   
   
-  export const Animatedloader = () => {
+  export const AnimatedLoader = () => {
     // Scroll user to top to avoid showing the footer 
 
     React.useState(() => {
@@ -93,4 +93,4 @@ const blackBox = {
     );
   };
 
-  export default Animatedloader;
+  export default AnimatedLoader;

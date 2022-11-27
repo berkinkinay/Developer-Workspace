@@ -8,7 +8,7 @@ const animations = {
     
 };
 
-const Animatepages = ({children}) => {
+const AnimatedPages = ({children}) => {
     
   return (
     <motion.div
@@ -22,4 +22,4 @@ const Animatepages = ({children}) => {
   );
 };
 
-export default Animatepages
+export default AnimatedPages;
