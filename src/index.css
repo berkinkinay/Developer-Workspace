@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .main {
+    @apply flex z-10 left-0 absolute bg-white h-screen w-fit text-white divide-y divide-white
+  } 
+  .container {
+   @apply  flex fixed h-screen w-56 text-white items-center justify-center divide-y divide-white
+  }
+  .nav-container-active {
+    @apply flex z-10 h-screen w-56 pb-6 left-0 bg-black items-center rounded-lg divide-y divide-white
+  }
+  .title {
+    @apply flex flex-col text-base gap-5 w-56 h-fit indent-2 text-white 2xl:text-sm
+           items-center justify-center hover:cursor-pointer font-normal	
+  }
+  .active {
+    @apply  flex w-fit font-extrabold text-purple-500 h-fit rounded-lg items-center justify-center transition-all
+  }
+}
+
+#root {
+  background-color: rgba(0, 0, 0, 0.649);
+}
+
+.text{
+    font-family: 'Work Sans', sans-serif; 
+}
+
+.button {  
+    margin-bottom: 140px;
+    margin-right: 210px;
+}
+
+
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .button:hover {
+    animation: swing 5s;
+  }
+  
+  @keyframes swing {
+      0%
+       {
+          transform: rotateZ(2deg) translate(-10,0);
+      }
+      10%
+       {
+          transform: rotateZ(20deg) translate(-25px,-15px);
+      }
+      30%
+       {
+          transform: rotateZ(-30deg) translate(-15px,-2px);
+      }
+      60%
+       {
+          transform: rotateZ(10deg) translate(30px,-10px);  
+      }
+      20%
+       {
+          transform: rotateZ(20deg) translate(0,0);
+      }
+  }
