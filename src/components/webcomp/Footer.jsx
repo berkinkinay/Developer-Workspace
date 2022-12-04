@@ -16,7 +16,7 @@ const Footer = () => {
             target= "_blank" rel="noreferrer" 
             class="flex absolute w-fit h-fit mr-[720px] bottom-16 text-sm text-purple-300"
             >
-                Click here to review my recently project 💻🥰💫
+                Click here to review my recently project 💻🥰⚡
            </a>
             <div class="flex flex-col absolute gap-5 items-center justify-center text-purple-300">
                   <img class='h-24 w-24 rounded-full drop-shadow-2xl shadow-white' src={Me} alt='' /> 
