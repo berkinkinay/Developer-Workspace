@@ -36,7 +36,7 @@ const SideBar = () => {
                     </li>
                     <li class="hover:underline">
                         <Link activeClass="active" spy to="">
-                            More Stuff Coming soon...
+                           💫More Stuff Coming soon...
                         </Link>
                     </li>
                 </ul>
