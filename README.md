@@ -6,8 +6,8 @@
 ### `JavaScript`
 ### `ReactJS`
 ### `TailwindCSS`
-### `Framer Motion`
 ### `React Router`
+### `Framer Motion`
 
 ## Project Link 🔭
 
