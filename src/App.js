@@ -20,7 +20,7 @@ function App() {
   return (
 
     <>
-      <AnimatePresence initial={false}>
+      <AnimatePresence initial={true}>
         <AnimatedLoader />
         <Animatedpages />
           <Nav />
