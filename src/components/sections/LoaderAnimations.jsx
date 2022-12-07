@@ -29,9 +29,19 @@ export const LoaderAnimations = () => {
         <div class="flex h-36 w-48">
             <Animation3 />
         </div>
-        <div class="flex h-36 w-48 bg-white text-black items-center justify-center text-xs rounded-xl">more stuff coming soon</div>
+        <div 
+         class=
+         "flex h-36 w-48 bg-white text-black items-center justify-center text-xs rounded-xl"
+         >
+          more stuff coming soon
+        </div>
       </div>
-      <p class="flex absolute text-xs w-96 h-fit bottom-10 text-center"> This is about CSS animations, I can code different stuff like these examples and more content will be here  coming soon. </p>
+      <p 
+       class=
+       "flex absolute text-xs w-96 h-fit bottom-10 text-center"
+      > 
+        This is about CSS animations, I can code different stuff like these examples and more content will be here  coming soon.
+      </p>
     </div>
   </div>
 </div>

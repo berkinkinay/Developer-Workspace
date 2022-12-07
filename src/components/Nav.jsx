@@ -34,9 +34,9 @@ const SideBar = () => {
                             Loader Animations
                         </Link>
                     </li>
-                    <li class="hover:underline">
+                    <li class="hover:underline text-sm">
                         <Link activeClass="active" spy to="">
-                           💫More Stuff Coming soon...
+                         💫More Stuff Coming soon...
                         </Link>
                     </li>
                 </ul>

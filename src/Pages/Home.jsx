@@ -69,7 +69,7 @@ export const Home = () => {
           </p>
             <div className='App'>
               <div class="flex w-full bg-white">
-                <div class='flex absolute top-[300px] h-fit w-fit bg-sky-600 rounded-full items-center justify-center 3xl:right-[173px]'
+                <div class='flex absolute 3xl:top-[310px] 2xl:top-[300px] h-fit w-fit bg-sky-600 rounded-full text-xl items-center justify-center 3xl:right-[170px]'
                   >   
                     <FaConnectdevelop size='2em' color='black' className='App-logo' />        
                 </div>

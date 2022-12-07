@@ -24,7 +24,7 @@ export const ObjectTwo = () => {
             <div
               class=
             'flex items-center justify-center h-fit w-72 rounded-xl'>
-              <p class='flex my-2 mx-4 text-white text-center'>
+              <p class='flex my-2 mx-4 text-white text-center text-sm'>
                  Hover object to see the animation. I usually use like this stuff in my projects. I create this button
                  using with Framer Motion library You can use this like a button. 
               </p>

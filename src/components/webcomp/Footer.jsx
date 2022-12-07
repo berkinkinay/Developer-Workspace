@@ -6,7 +6,6 @@ const Footer = () => {
 
 <div class="text" id="more">
   <div class="flex absolute w-full h-56"> 
-
         <div
          class=
          "flex h-56 w-full absolute bottom-0 items-center justify-center bg-gray-800"
@@ -14,14 +13,14 @@ const Footer = () => {
            <a
             href="https://github.com/berkinkinay/3D-Earth"
             target= "_blank" rel="noreferrer" 
-            class="flex absolute w-fit h-fit mr-[720px] bottom-16 text-sm text-purple-300"
+            class="flex absolute w-fit h-fit 3xl:mr-[950px] 2xl:mr-[720px] bottom-16 text-sm text-white hover:text-purple-300"
             >
                 Click here to review my recently project 💻🥰⚡
            </a>
             <div class="flex flex-col absolute gap-5 items-center justify-center text-purple-300">
                   <img class='h-24 w-24 rounded-full drop-shadow-2xl shadow-white' src={Me} alt='' /> 
-                  <p class="flex 3xl:text-base 2xl:text-xs"> ©2022 Berkin Kınay. All Rights Reserved. </p>
-                  <p class="flex 3xl:text-base 2xl:text-xs"> All source codes related to this project can be found on my github account. </p>
+                  <p class="flex 3xl:text-sm 2xl:text-xs"> ©2022 Berkin Kınay. All Rights Reserved. </p>
+                  <p class="flex 3xl:text-sm 2xl:text-xs"> All source codes related to this project can be found on my github account. </p>
             </div>
             <div 
              class="flex flex-col gap-5 absolute right-48 bg-black drop-shadow-xl rounded-[60px] w-56 h-48 text-white items-center"
@@ -35,7 +34,7 @@ const Footer = () => {
                 >
                    Github 
                 </a>
-               <a 
+               <a
                   href="https://dev.to/berkinkinay" 
                   target= "_blank"
                   rel="noreferrer" 

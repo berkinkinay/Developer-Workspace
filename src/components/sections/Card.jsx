@@ -25,7 +25,7 @@
                   'flex absolute left-36 items-center justify-center h-fit w-72 rounded-xl drop-shadow-xl'>
                   <p
                    class=
-                  'flex my-2 mx-4 text-center text-white'
+                  'flex my-2 mx-4 text-center text-white text-sm'
                   >
                       This is a example for UI Sign in card.
                     </p>

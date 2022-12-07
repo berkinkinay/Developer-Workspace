@@ -27,7 +27,7 @@ export const ObjectOne = () => {
           <div 
            class=
           'flex items-center justify-center h-fit w-72 rounded-xl drop-shadow-2xl'>
-            <p class='flex my-2 mx-4 text-white text-center'
+            <p class='flex my-2 mx-4 text-white text-center text-sm'
             >
               Hover object to see the animation. I can code animation module to different possibilities than this example.
             </p> 
